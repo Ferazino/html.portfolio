@@ -1,0 +1,75 @@
+h1{
+    font-family:'Bungee Spice', sans-serif;
+    z-index: 2;
+    font-size: 50px;
+    color:white;
+    background-color:black;
+    -webkit-text-stroke:4px black;
+    padding:5px;
+    position: fixed;
+    top:0px;
+    left:0px
+    
+    
+    
+}
+header h1 {
+    margin: 0;
+  }
+  
+nav {
+
+    background-color:black;
+    z-index: 3;
+    color: #fff;
+    padding:0px;
+    text-align:right;
+    font-family: sans-serif;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+body{
+    background-color:#9DB2BF;
+    
+}
+main {
+  padding: 20px;
+  text-align: center;
+}
+p{
+  background-color:black;
+    color: #fff;
+    padding:20px;
+    margin-bottom: 0px;
+    
+    text-align:center;
+}
+img{
+  padding: 10px;
+  z-index:-1;
+}
+.end{
+  margin-bottom: 0px;
+}
+
+main{
+  margin-top: 20px;
+  position: static;
+  top: 0px;
+  left: 6px;
+}
